@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AESTHEHOLIC",
+    "description": "",
+    "home_page_url": "https://takyon12.github.io/gh-pages",
+    "feed_url": "https://takyon12.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "takyon12"
+    },
+    "items": [
+        {
+            "id": "https://takyon12.github.io/gh-pages/bird-update.html",
+            "url": "https://takyon12.github.io/gh-pages/bird-update.html",
+            "title": "Bird update",
+            "summary": "Bla bla bla",
+            "content_html": "<p>Bla bla bla</p>",
+            "image": "https://takyon12.github.io/gh-pages/media/posts/3/sulcinko.png",
+            "author": {
+                "name": "takyon12"
+            },
+            "tags": [
+                   "BLOG"
+            ],
+            "date_published": "2021-05-04T17:48:51+02:00",
+            "date_modified": "2021-05-04T17:57:59+02:00"
+        },
+        {
+            "id": "https://takyon12.github.io/gh-pages/skincare-at-29.html",
+            "url": "https://takyon12.github.io/gh-pages/skincare-at-29.html",
+            "title": "Skincare at 29",
+            "summary": "Just basic stuff really.............",
+            "content_html": "<p>Just basic stuff really.............</p>",
+            "image": "https://takyon12.github.io/gh-pages/media/posts/2/14238172_10202421864624350_8187828739843601065_n.jpg",
+            "author": {
+                "name": "takyon12"
+            },
+            "tags": [
+                   "SKINCARE"
+            ],
+            "date_published": "2021-05-04T17:48:36+02:00",
+            "date_modified": "2021-05-04T17:57:46+02:00"
+        },
+        {
+            "id": "https://takyon12.github.io/gh-pages/first-words.html",
+            "url": "https://takyon12.github.io/gh-pages/first-words.html",
+            "title": "First words",
+            "summary": "XSAJKDHSAKJDASDFSDFDSFDSF HSAKJDASDFSDFD HSAKJDASDFSDFD XSAJKDHSAKJDASDFSDFDSFDSF HSAKJDASDFSDFD HSAKJDASDFSDFD XSAJKDHSAKJDASDFSDFDSFDSF HSAKJDASDFSDFD HSAKJDASDFSDFD ",
+            "content_html": "<p>XSAJKDHSAKJDASDFSDFDSFDSF HSAKJDASDFSDFD HSAKJDASDFSDFD XSAJKDHSAKJDASDFSDFDSFDSF HSAKJDASDFSDFD HSAKJDASDFSDFD XSAJKDHSAKJDASDFSDFDSFDSF HSAKJDASDFSDFD HSAKJDASDFSDFD</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://takyon12.github.io/gh-pages/media/posts/1/arwen.JPG\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://takyon12.github.io/gh-pages/media/posts/1/responsive/arwen-xs.JPG 300w ,https://takyon12.github.io/gh-pages/media/posts/1/responsive/arwen-sm.JPG 480w ,https://takyon12.github.io/gh-pages/media/posts/1/responsive/arwen-md.JPG 768w\"  alt=\"\" width=\"780\" height=\"520\"></figure>",
+            "image": "https://takyon12.github.io/gh-pages/media/posts/1/7C89729F-77A6-4771-A86E-DD5BB3043C98.jpg",
+            "author": {
+                "name": "takyon12"
+            },
+            "tags": [
+                   "BLOG"
+            ],
+            "date_published": "2021-05-04T17:48:16+02:00",
+            "date_modified": "2021-05-04T17:57:53+02:00"
+        }
+    ]
+}

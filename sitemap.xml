@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://takyon12.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://takyon12.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://takyon12.github.io/gh-pages/about.html</loc>
+<lastmod>2021-05-04T17:56:48+02:00</lastmod>
+</url>
+<url>
+<loc>https://takyon12.github.io/gh-pages/bird-update.html</loc>
+<lastmod>2021-05-04T17:57:59+02:00</lastmod>
+<image:image>
+<image:loc>https://takyon12.github.io/gh-pages/media\posts\3/sulcinko.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://takyon12.github.io/gh-pages/first-words.html</loc>
+<lastmod>2021-05-04T17:57:53+02:00</lastmod>
+<image:image>
+<image:loc>https://takyon12.github.io/gh-pages/media\posts\1/7C89729F-77A6-4771-A86E-DD5BB3043C98.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://takyon12.github.io/gh-pages/media\posts\1/arwen.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://takyon12.github.io/gh-pages/skincare-at-29.html</loc>
+<lastmod>2021-05-04T17:57:46+02:00</lastmod>
+<image:image>
+<image:loc>https://takyon12.github.io/gh-pages/media\posts\2/14238172_10202421864624350_8187828739843601065_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
