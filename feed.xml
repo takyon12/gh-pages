@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>BLOG | Katka&#x27;s personal blog</title>
+    <title>Katka&#x27;s personal blog</title>
     <link href="https://takyon12.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://takyon12.github.io/gh-pages" />
-    <updated>2021-05-04T17:57:59+02:00</updated>
+    <updated>2021-05-04T18:14:30+02:00</updated>
     <author>
         <name>takyon12</name>
     </author>
     <id>https://takyon12.github.io/gh-pages</id>
 
+    <entry>
+        <title>EMPTIES - 04/21</title>
+        <author>
+            <name>takyon12</name>
+        </author>
+        <link href="https://takyon12.github.io/gh-pages/empties-0421.html"/>
+        <id>https://takyon12.github.io/gh-pages/empties-0421.html</id>
+            <category term="SKINCARE"/>
+            <category term="REVIEW"/>
+
+        <updated>2021-05-04T18:14:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Products I managed to empty during the last month! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Products I managed to empty during the last month! </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bird update</title>
         <author>

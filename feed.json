@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "BLOG | Katka&#x27;s personal blog",
+    "title": "Katka&#x27;s personal blog",
     "description": "",
     "home_page_url": "https://takyon12.github.io/gh-pages",
     "feed_url": "https://takyon12.github.io/gh-pages/feed.json",
@@ -9,6 +9,22 @@
         "name": "takyon12"
     },
     "items": [
+        {
+            "id": "https://takyon12.github.io/gh-pages/empties-0421.html",
+            "url": "https://takyon12.github.io/gh-pages/empties-0421.html",
+            "title": "EMPTIES - 04/21",
+            "summary": "Products I managed to empty during the last month! ",
+            "content_html": "<p>Products I managed to empty during the last month! </p>",
+            "author": {
+                "name": "takyon12"
+            },
+            "tags": [
+                   "SKINCARE",
+                   "REVIEW"
+            ],
+            "date_published": "2021-05-04T18:14:21+02:00",
+            "date_modified": "2021-05-04T18:14:30+02:00"
+        },
         {
             "id": "https://takyon12.github.io/gh-pages/bird-update.html",
             "url": "https://takyon12.github.io/gh-pages/bird-update.html",
